@@ -1,6 +1,6 @@
 body {
     background-color: rgb(29, 29, 29);
-    text-align: center;
+    text-align:left;
     font-size: xx-large;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-shadow: 3px 2px;
@@ -26,4 +26,6 @@ body {
     color: black;
   }
   
- 
+ .center_text {
+  text-align: center;
+ }
